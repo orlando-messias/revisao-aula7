@@ -1,3 +1,6 @@
+# comentando o meu codigo
+# a funcao abaixo verifica se uma senha é forte ou fraca
+
 def verifica_senha(senha):
     conta_caract = len(senha)
     conta_num = 0
